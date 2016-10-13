@@ -1,0 +1,6 @@
+in the cart.py module i hav forgotten to provide request parameter apart from self
+please correct it
+the invalid literal for int could only mean that at home the db.sqllite or the backend didnt have any values so the <?P product_id+0/>
+or something like this did get a string but it didnt have any integers or id in it.
+this thread is what i think is my problem
+http://stackoverflow.com/questions/11387424/invalid-literal-for-int-with-base-10-on-python-django
